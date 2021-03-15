@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e577d116-bbe7-4633-aea9-79804bea3305" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e577d116-bbe7-4633-aea9-79804bea3305" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/leetcode" />
   </component>
   <component name="ProjectId" id="1pmqeGFIYgwHxlFcufb2QNm3zEg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -68,6 +66,7 @@
       <workItem from="1615825216494" duration="619000" />
       <workItem from="1615827314283" duration="33000" />
       <workItem from="1615827475297" duration="91000" />
+      <workItem from="1615828411702" duration="617000" />
     </task>
     <servers />
   </component>
