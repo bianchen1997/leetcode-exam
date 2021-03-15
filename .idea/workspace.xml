@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e577d116-bbe7-4633-aea9-79804bea3305" name="Default Changelist" comment="" />
+    <list default="true" id="e577d116-bbe7-4633-aea9-79804bea3305" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/leetcode" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1pmqeGFIYgwHxlFcufb2QNm3zEg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,6 +33,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -66,11 +70,25 @@
       <workItem from="1615825216494" duration="619000" />
       <workItem from="1615827314283" duration="33000" />
       <workItem from="1615827475297" duration="91000" />
-      <workItem from="1615828411702" duration="617000" />
+      <workItem from="1615828411702" duration="1428000" />
+      <workItem from="1615830211171" duration="1417000" />
+      <workItem from="1615831813727" duration="37000" />
     </task>
+    <task id="LOCAL-00001" summary="num53">
+      <created>1615829245479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615829245480</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="num53" />
+    <option name="LAST_COMMIT_MESSAGE" value="num53" />
   </component>
 </project>
