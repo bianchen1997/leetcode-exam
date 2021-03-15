@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e577d116-bbe7-4633-aea9-79804bea3305" name="Default Changelist" comment="" />
+    <list default="true" id="e577d116-bbe7-4633-aea9-79804bea3305" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1pmqeGFIYgwHxlFcufb2QNm3zEg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
@@ -24,6 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RebelAgentSelection">
@@ -59,6 +66,8 @@
       <updated>1615798710212</updated>
       <workItem from="1615798711407" duration="2276000" />
       <workItem from="1615825216494" duration="619000" />
+      <workItem from="1615827314283" duration="33000" />
+      <workItem from="1615827475297" duration="91000" />
     </task>
     <servers />
   </component>
