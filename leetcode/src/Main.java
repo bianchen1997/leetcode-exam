@@ -5,6 +5,7 @@ public class Main {
     }
 
     //测试
+    //i want something just like this
     public static int maxSubArray(int[] nums) {
         int max = nums[0];
         int pre = 0;
