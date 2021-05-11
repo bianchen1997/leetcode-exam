@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e577d116-bbe7-4633-aea9-79804bea3305" name="Default Changelist" comment="">
+    <list default="true" id="e577d116-bbe7-4633-aea9-79804bea3305" name="Default Changelist" comment="num53">
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Annotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/JZOffer30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/JZOffer31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/JZOffer49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/JZOffer53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/JZOffer59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/JZOffer61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,44 +26,99 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/leetcode" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1pmqeGFIYgwHxlFcufb2QNm3zEg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.14797136" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager">
-    <configuration name="Leetcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Leetcode" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leetcode/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JZOffer31">
+    <configuration name="Annotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Annotation" />
       <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciRescursiveTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciRescursiveTask" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JZOffer31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JZOffer31" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JZOffer49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JZOffer49" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JZOffer61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JZOffer61" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Leetcode" />
+        <item itemvalue="Application.JZOffer31" />
+        <item itemvalue="Application.JZOffer61" />
+        <item itemvalue="Application.FibonacciRescursiveTask" />
+        <item itemvalue="Application.JZOffer49" />
+        <item itemvalue="Application.Annotation" />
       </list>
     </recent_temporary>
   </component>
@@ -73,6 +137,28 @@
       <workItem from="1615828411702" duration="1428000" />
       <workItem from="1615830211171" duration="1417000" />
       <workItem from="1615831813727" duration="37000" />
+      <workItem from="1615863592672" duration="106000" />
+      <workItem from="1615900903177" duration="922000" />
+      <workItem from="1615901831787" duration="4247000" />
+      <workItem from="1616066794598" duration="3887000" />
+      <workItem from="1616225752722" duration="2622000" />
+      <workItem from="1616832972561" duration="1446000" />
+      <workItem from="1617069556447" duration="1268000" />
+      <workItem from="1617200707034" duration="1431000" />
+      <workItem from="1617693538158" duration="4629000" />
+      <workItem from="1617957850257" duration="2242000" />
+      <workItem from="1617961757387" duration="227000" />
+      <workItem from="1618038887102" duration="5168000" />
+      <workItem from="1618206894867" duration="1000" />
+      <workItem from="1618456795449" duration="1783000" />
+      <workItem from="1618464736844" duration="662000" />
+      <workItem from="1618466079549" duration="621000" />
+      <workItem from="1618822247382" duration="127000" />
+      <workItem from="1618885964515" duration="1196000" />
+      <workItem from="1619149233379" duration="1632000" />
+      <workItem from="1619317745735" duration="1747000" />
+      <workItem from="1620452749344" duration="1893000" />
+      <workItem from="1620456315849" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="num53">
       <created>1615829245479</created>
@@ -87,8 +173,44 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/leetcode" />
+    </ignored-roots>
     <MESSAGE value="num53" />
     <option name="LAST_COMMIT_MESSAGE" value="num53" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/TreeNode.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/JZOffer61.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/JZOffer31.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
